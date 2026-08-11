@@ -1,0 +1,117 @@
+   body{
+          background-color:#dedede
+        }
+        
+    
+        h1{
+            font-size: 60px;
+        }
+      h3{
+         font-size: 50px;
+
+      }
+      .renkli-bolum {
+    background-color: blue;
+    padding-left:550px;
+    padding-top: 80px;
+    padding-bottom: 200px;
+                   
+    color:white;
+      
+}
+.renkli-bolum2 {
+    background-color:white;
+   padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+                color: #000;
+    font-size: 16px;
+   
+      
+}
+    .yetenek{
+
+font-size: 50px;
+            color:blue;
+            border: 5px groove blue;
+            margin: 20px;
+
+
+    }  
+    .renkli-bolum3{
+
+
+  background-color:white;
+   padding:30px;
+                color: #000;
+    font-size: 16px;
+    margin: 20px;
+
+    }
+    .renkli-bolum8{
+
+background-color: black;
+padding-left: 585px;
+padding-right: 585px;
+padding-top: 40px;
+padding-bottom: 40px;
+margin-top: 400px;
+color: white;
+
+
+    }
+        p{
+            font-size: 50px;
+            color:blue;
+            border: 5px groove blue;
+            
+        }
+        .ozelp{
+            color:gray
+        }
+        #ozelid{
+            color:red
+        }
+        table tr td{
+            border: 3px solid black;
+            background-color:white;
+          font-size: 15px;
+          padding-right: 70px;
+          padding-top: 6px;
+          padding-bottom: 6px;
+          padding-left: 3px;
+            
+        
+        }
+        .ozelt{
+            
+            background:blue;
+            
+            color:white
+            
+        }
+    
+    
+        .brown{
+        
+            font-weight: bold;
+        }
+        input, textarea{
+            background-color:white;
+            font-size: 20;
+            color:gray;
+            border: 1px solid #000;
+             border-radius: 5px;
+             padding-top: 10px;}
+       button{
+
+        background-color: blue;
+        font-size: 20px;
+
+       }
+        
+        
+        
+        
+        
+        
